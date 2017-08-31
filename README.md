@@ -2,11 +2,11 @@
 
 reference:https://github.com/charlesq34/pointnet
 
-# experiment
+% Experiment
 The image of blue line is basic and red line is ours
 
-# remarks
+% Remarks
 train2.py is only for model of pointnet_cls_rotate.py
 
-# conclusion
+% Conclusion
 Add the dense connect network will speed up.
